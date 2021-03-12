@@ -43,10 +43,3 @@ Bucket=
 
 `accessKeyId` and `secretAccessKey` can be created in AWS console, from my secret credentials, Access keys.
 
-<img src="README.assets/image-20200410045606235.png" alt="image-20200410045606235" style="zoom:10%;" />
-
-`region` can be found in S3's bucket list,
-
-![image-20200410045855664](README.assets/image-20200410045855664.png)
-
-in this example, `region` is `us-east-2`, and `Bucket` is `test-upload-huakun`.
